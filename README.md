@@ -1,1 +1,1 @@
-# coffe-cart-e2e-pw
+# coffee-cart-e2e-pw
